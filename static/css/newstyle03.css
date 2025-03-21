@@ -1,0 +1,99 @@
+﻿.header {
+	background: url("../image/bg.png") no-repeat top / cover; height: 723px;
+}
+.banner {
+	margin-top: 59px;
+}
+.banner .logo {
+	width: 48px; margin-left: 329px;
+}
+.banner .title {
+	height: 82px;
+}
+.banner h1 {
+	line-height: 48px; font-size: 40px; font-weight: 700; margin-left: 13px;
+}
+.banner .text .card {
+	margin: 9px 0px 0px 20px;
+}
+.banner .text .doc {
+	margin: 9px 0px 0px 18px; font-size: 26px;
+}
+.banner .img-btn {
+	padding-top: 21px;
+}
+.banner-box {
+	width: 382px; padding-left: 170px; margin-left: 0px;
+}
+.banner-box .key-word {
+	margin: 27px 0px 60px; width: 190px; height: 28px; text-align: center; line-height: 28px; font-size: 26px; font-weight: 400;
+}
+.banner-box .key-word img {
+	width: 28px; margin-right: 4px;
+}
+.banner .btn {
+	margin: 0px 0px 16px; width: 328px; height: 94px; line-height: 94px;
+}
+.btn__icon {
+	left: 75px; top: 25px;
+}
+.banner .btn .btn_text {
+	padding: 0px 0px 0px 130px; font-size: 30px; font-weight: 600;
+}
+.banner .tip {
+	margin: 0px 0px 45px;
+}
+.banner .state {
+	height: 24px; line-height: 24px; font-size: 20px; margin-right: 28px;
+}
+.banner .state img {
+	width: 24px; margin-right: 6px;
+}
+.main {
+	width: 1112px;
+}
+.img-list {
+	margin: 76px auto 124px; width: 1112px; height: 360px; text-align: center;
+}
+.img-list li {
+	margin: 0px 48px; width: 460px;
+}
+.img-list li .desc {
+	margin: 0px 0px 23px; width: 460px; color: rgb(61, 71, 86); font-size: 38px; font-weight: 400; min-height: 50px;
+}
+.downType {
+	width: 100%;
+}
+.common-btn {
+	margin: 0px; width: 50%; text-align: center;
+}
+.btn.common {
+	margin: 0px auto;
+}
+.downType .safeType {
+	width: 50%; text-align: center;
+}
+.downType .safeType .safe {
+	margin: 0px auto; border-radius: 0px; height: 78px; line-height: 78px;
+}
+.downType .safeType .checkTypeownload {
+	margin: 0px auto;
+}
+.fix .fix-box {
+	position: relative;
+}
+.product-logo {
+	text-align: center; line-height: 50px; margin-top: 0px; position: absolute;
+}
+.product-logo i {
+	margin-left: 14px;
+}
+.fix-box .doc {
+	left: 0px; width: 100%; text-align: center; line-height: 50px; clear: both; font-size: 26px; font-weight: 700; position: absolute;
+}
+.fix .at-once {
+	right: 0px; position: absolute;
+}
+.fix .at-once i {
+	line-height: 50px; font-size: 20px;
+}
